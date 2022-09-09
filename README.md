@@ -1,3 +1,3 @@
 # Eth-Dapps
 
-this Dapps is used to send ethereum anyware in the world.user use metamsk to transaction using this dapps 
+This Dapps is used to Send Ethereum anyware in the world.User use metamask wallet to transaction using this dapps.this dapps provide Beautiful UI and User wallet all transaction show in home page  
